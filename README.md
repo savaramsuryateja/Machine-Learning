@@ -3,7 +3,7 @@
 This project builds a machine-learning pipeline to **predict age certifications** (e.g., TV-MA, PG-13, TV-14) for Netflix titles based solely on their **text descriptions**.  
 It uses **TF–IDF text vectorization** and a **Multilayer Perceptron (MLP)** classifier to model rating categories from plot summaries.
 
-📄 This work is based on the analysis and methodology described in the accompanying project report. :contentReference[oaicite:1]{index=1}
+📄 This work is based on the analysis and methodology described in the accompanying project report.
 
 ---
 
